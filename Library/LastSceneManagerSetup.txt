@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Room1Linette.unity
+  isLoaded: 1
+  isActive: 1
